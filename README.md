@@ -61,8 +61,8 @@ Requirements
 
 License
 
-[Your choice]
+MIT License
 
 Author
 
-[Your name]
+justdev-chris
