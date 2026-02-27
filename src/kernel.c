@@ -347,7 +347,7 @@ void kernel_main() {
     __asm__ volatile("sti");
     
     terminal_writestring("\nPawNix kernel ready.\n");
-    terminal_writestring("Build your distro on this.\n\n");
+    terminal_writestring("PawNix v0.1.\n\n");
     
     // Main loop
     while(1) {
